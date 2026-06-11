@@ -18,6 +18,8 @@ Student Profile
 → Semantic Matching
 → Ranking
 → Shortlist Generation
+
+
 Installation
 pip install -r requirements.txt
 Usage
